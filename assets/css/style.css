@@ -10,6 +10,11 @@
     font-family: "Raleway";
 }
 
+main{
+    display: flexbox;
+    justify-content: center;
+}
+
 
 nav {
     height: 76px;
@@ -62,7 +67,8 @@ nav ul li a:hover {
     color: #337ab7;
 }
 
-.wordPress {
+
+.wordPress{
     background-image: url("../img/bild.png");
     background-repeat: no-repeat;
 
@@ -194,3 +200,246 @@ div section a:nth-of-type(2):hover {
 .mac2 section{
     margin-right: 10%;
 }
+
+.para{
+    background-image: url("../img/section.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 438px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:
+}
+
+.para div h1 {
+    font-size: 6rem;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.para div p {
+    font-size: 1.4rem;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.para div section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    gap: 10px;
+
+}
+
+.para div section a {
+    width: 200px;
+    height: 54px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para div section a:nth-of-type(1) {
+    background-color: brown;
+
+}
+
+.para div section a:hover {
+    background-color: orange;
+}
+
+.limi{
+    color: black;
+    margin-top: 120px;
+    
+
+
+}
+
+.limi h3{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 3rem;
+
+}
+
+.limi p{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-size: 1.4rem;
+    
+}
+
+.limi a{
+    width: 200px;
+    height: 54px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+
+}
+
+.limi article{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.limi img{
+    margin: auto;
+    display: block;
+
+
+}
+
+
+.late{
+    margin-top: 120px;
+    background-color: black;
+    padding-top: 100px;
+
+
+}
+
+.late h3{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 3rem;
+
+}
+
+.late p{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-size: 1.4rem;
+    margin-bottom: 40px;
+}
+
+.late img{
+    width: 385.5px;
+    height: 268.88px;
+    margin-bottom: 40px;
+    display: inline;
+
+
+}
+
+.cosi{
+    background-image: url("../img/section\ \(2\).png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 438px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.cosi div h1 {
+    font-size: 6rem;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cosi div p {
+    font-size: 1.4rem;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.cosi div section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+}
+
+.cosi h3{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.cli{
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 50px;
+}
+
+.cli h1{
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin: 50px;
+}
+
+
+.cli article{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+
+.liki{
+    width: 100%;
+    height: 246px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DDDDDD;
+    
+}
+
+.liki h1{
+    color: #333;
+    margin-right: 100px;
+}
+
+.liki a {
+    width: 200px;
+    height: 54px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+footer{
+    color: #FFFFFF;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    width:100%;
+    height: 183px;
+;}
+
+
+
+
+
+
+
