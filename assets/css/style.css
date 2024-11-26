@@ -71,15 +71,17 @@ nav ul li a:hover {
 .wordPress{
     background-image: url("../img/bild.png");
     background-repeat: no-repeat;
-
-    width: 100%;
+    background-size: cover;
     height: 1000px;
+
 
     display: flex;
     justify-content: center;
 
     align-items: center;
 }
+
+
 
 div h1 {
     font-size: 4rem;
@@ -204,12 +206,12 @@ div section a:nth-of-type(2):hover {
 .para{
     background-image: url("../img/section.png");
     background-repeat: no-repeat;
-    width: 100%;
+    background-size: cover;
     height: 438px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin:
+    
 }
 
 .para div h1 {
@@ -341,7 +343,7 @@ div section a:nth-of-type(2):hover {
 .cosi{
     background-image: url("../img/section\ \(2\).png");
     background-repeat: no-repeat;
-    width: 100%;
+    background-size: cover;
     height: 438px;
     display: flex;
     justify-content: center;
